@@ -3,4 +3,4 @@
 
 # Aquarium With Html & Css
 
-![](../Animation With Css/aquarium.jpg)
+![](Animation With Css/aquarium.jpg)
